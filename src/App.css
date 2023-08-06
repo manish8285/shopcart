@@ -3,6 +3,13 @@
   padding: 0px 40px 0px 40px;
 }
 
+@media screen and (max-width:600px) {
+  .block-section{
+    padding: 0px 10px 0px 10px;
+  }
+  
+}
+
 .bg-green{
   background-color: rgb(0 66 42) !important;
 }
