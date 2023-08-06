@@ -1,0 +1,40 @@
+
+.block-section{
+  padding: 0px 40px 0px 40px;
+}
+
+.bg-green{
+  background-color: rgb(0 66 42) !important;
+}
+
+.fg-green{
+  color: rgb(0 66 42) !important ;
+}
+
+.top-navbar{
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.bg-hero{
+  background-color: rgb(251 241 227);
+}
+
+.bg-gray{
+  background-color: rgb(239 239 239) !important;
+}
+
+
+.filter-item{
+  /* -webkit-appearance: none; */
+  padding:8px 8px 8px 8px;
+  border-right: 8px solid transparent !important;
+  border-radius: 60px;
+
+}
+
+.btn-addToCart:hover {
+  background-color: rgb(0 66 42) !important ;
+  color: #fff;
+}
+

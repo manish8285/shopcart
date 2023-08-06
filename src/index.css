@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-primary{
+  background-color: #00422a00;
+}
+
+.bg-green{
+  background-color: rgb(0 66 42);
+}
+.fg-primary{
+  
+}
